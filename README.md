@@ -2,7 +2,7 @@
 
 # SURESH CHIDURALA
 
- I'm a front-end web developer and currently developing my skills in Full Stack MERN applications and searching for job role web developer
+Hi, I'm Suresh Chidurala, a skilled Front-end Developer hailing from the vibrant city of Hyderabad, India. With a passion for crafting exceptional user experiences, I've been in the web development field since 2020. My expertise lies in building dynamic and responsive web and mobile applications using cutting-edge technologies like React and React Native, often with the precision of TypeScript. I'm well-versed in popular tools and frameworks such as Tailwind CSS, Jest, Cypress, and Next.js, enabling me to create performant and visually appealing applications. I take pride in my commitment to staying up-to-date with the latest industry trends and ensuring that every project I undertake is a seamless fusion of creativity and functionality. Let's work together to bring your digital ideas to life!
 
 ## SOCIAL MEDIA LINKS
 <p>
