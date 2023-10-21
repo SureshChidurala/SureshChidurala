@@ -6,7 +6,7 @@ Hi, I'm Suresh Chidurala, a skilled Front-end Developer hailing from the vibrant
 
 ## SOCIAL MEDIA LINKS
 <p>
- <a href='https://www.linkedin.com/in/suresh-chidurala' target="_blank">
+  <a href='https://www.linkedin.com/in/suresh-chidurala' target="_blank">
   <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="suresh.chidurala.myworkspace@gmail.com" target="_blank">
