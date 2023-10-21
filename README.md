@@ -1,4 +1,4 @@
-![Web Developer](https://pbs.twimg.com/media/DQlOsZyVAAAXfAx.jpg)
+![Web Developer]([https://pbs.twimg.com/media/DQlOsZyVAAAXfAx.jpg](https://res.cloudinary.com/practicaldev/image/fetch/s--RXS92V-v--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://miro.medium.com/max/1400/1%2AGh4eaAQU432ZQH7qsVbJ_A.png))
 
 # SURESH CHIDURALA
 
