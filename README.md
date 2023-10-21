@@ -1,4 +1,4 @@
-![Web Developer]([https://pbs.twimg.com/media/DQlOsZyVAAAXfAx.jpg](https://res.cloudinary.com/practicaldev/image/fetch/s--RXS92V-v--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://miro.medium.com/max/1400/1%2AGh4eaAQU432ZQH7qsVbJ_A.png))
+![Web Developer](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/2147532147/images/52b00ae-e348-074e-c64-53f21444e74_typescript-cover.jpg)
 
 # SURESH CHIDURALA
 
